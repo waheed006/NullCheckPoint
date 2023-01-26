@@ -12,7 +12,7 @@ Use Gradle:
         }
 
       dependencies {
-              implementation 'com.github.waheed006:NullCheckPoint:Tag'
+              implementation 'com.github.waheed006:NullCheckPoint:1.0.0'
       }
   ```
   
